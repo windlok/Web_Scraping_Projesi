@@ -1,4 +1,4 @@
-# Web Scraping Projesi
+<img width="1206" height="1267" alt="output" src="https://github.com/user-attachments/assets/350b5a0a-e89a-42a2-9ee6-466425f3155d" /># Web Scraping Projesi
 
 Bu proje, veri kazıma (web scraping) çalışmaları için hazırlanmış bir Jupyter Notebook tabanlı örnektir. Proje, farklı web kaynaklarından veri çekmek, temizlemek ve temel analiz hazırlıkları yapmak için kullanılabilir.
 
@@ -17,3 +17,4 @@ Bu proje, veri kazıma (web scraping) çalışmaları için hazırlanmış bir J
 
 ## Proje Yapısı
 - `Web_Scraping_Projesi.ipynb` — Analiz ve scraping akışı.
+output.png
